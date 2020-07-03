@@ -1,0 +1,17 @@
+.jumbotron {
+	background-image: url(assets/img/design.jpg);
+	background-size: center;
+	height: 790px;
+	text-align: center;
+	
+}
+.jumbotron .display-4 {
+	color: yellow;
+}
+.jumbotron .lead {
+	color: red;
+}
+.jumbotron p {
+	color: blue;
+}
+
